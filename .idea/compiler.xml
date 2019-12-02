@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="jax-rs" target="11" />
+      <module name="jax-rs" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

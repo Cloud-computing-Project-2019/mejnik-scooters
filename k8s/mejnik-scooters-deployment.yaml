@@ -1,20 +1,20 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: escooters-mejnik
+  name: mejnik-scooters
 spec:
   replicas: 1
   selector:
     matchLabels:
-      app: mejnik
+      app: mejnik-scooters
   template:
     metadata:
       labels:
-        app: mejnik
+        app: mejnik-scooters
     spec:
       containers:
-        - image: mejnik.azurecr.io/scootermejnik:v1
-          name: mejnik
+        - image: mejnik.azurecr.io/mejnik-scooters:v1
+          name: mejnik-scooters
           ports:
             - containerPort: 8080
               name: server
@@ -24,12 +24,12 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  name: mejnik
+  name: mejnik-scooters
 spec:
-  type: ClusterIP
+  type: LoadBalancer
   ports:
-    - port: 8080
+    - port: 80
       protocol: TCP
       targetPort: server
   selector:
-    app: mejnik
+    app: mejnik-scooters
