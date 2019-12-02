@@ -1,4 +1,4 @@
-#Trying to set up travis ci
+#Kubernetes deployment
 sudo: required
 
 services:
