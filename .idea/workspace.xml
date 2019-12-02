@@ -2,7 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="596e40ba-04c6-476b-82bb-2f61d647089f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jax-rs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jax-rs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k8s/escooters-mejnik-deployment.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/k8s/escooters-mejnik-deployment.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kumuluz/ee/samples/jaxrs/MejnikApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/si/fri/rso/mejnik/scooters/MejnikApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kumuluz/ee/samples/jaxrs/MejnikResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/si/fri/rso/mejnik/scooters/MejnikResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kumuluz/ee/samples/jaxrs/MejnikApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kumuluz/ee/samples/jaxrs/MejnikResource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/escooters-mejnik-1.0.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/escooters-mejnik-1.0.0-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +35,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../e-scooter-orders" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -45,14 +61,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575139724863</updated>
+      <workItem from="1575286051025" duration="1173000" />
+      <workItem from="1575287445905" duration="1173000" />
     </task>
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="766" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1575142823545">
+    <state x="766" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1575286967045">
       <screen x="46" y="27" width="1874" height="1053" />
     </state>
-    <state x="766" y="311" width="424" height="491" key="FileChooserDialogImpl/46.27.1874.1053@46.27.1874.1053" timestamp="1575142823545" />
+    <state x="766" y="311" width="424" height="491" key="FileChooserDialogImpl/46.27.1874.1053@46.27.1874.1053" timestamp="1575286967045" />
     <state width="1828" height="275" key="GridCell.Tab.0.bottom" timestamp="1575140274608">
       <screen x="46" y="27" width="1874" height="1053" />
     </state>
@@ -73,5 +94,9 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="639" y="380" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1575213529880" />
+    <state x="292" y="155" width="1372" height="803" key="new project wizard" timestamp="1575285645569">
+      <screen x="46" y="27" width="1874" height="1053" />
+    </state>
+    <state x="292" y="155" width="1372" height="803" key="new project wizard/1920.0.1920.1080/46.27.1874.1053@46.27.1874.1053" timestamp="1575285645569" />
   </component>
 </project>

@@ -4,8 +4,8 @@ RUN mkdir /app
 
 WORKDIR /app
 
-ADD ./target/escooters-mejnik-1.0.0-SNAPSHOT.jar /app
+ADD ./target/escooters-mejnik-scooters-1.0.0-SNAPSHOT.jar /app
 
 EXPOSE 8080
 
-CMD ["java", "-jar", "escooters-mejnik-1.0.0-SNAPSHOT.jar"]
+CMD ["java", "-jar", "escooters-mejnik-scooters-1.0.0-SNAPSHOT.jar"]
