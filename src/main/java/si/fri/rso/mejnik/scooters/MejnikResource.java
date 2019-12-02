@@ -14,6 +14,6 @@ public class MejnikResource {
     public Response getMejnik() {
         return Response.status(Response.Status.OK).entity("{\n" +
                 "    \"clani\": [\"gh8590\"],\n" +
-                "    \"opis_projekta\": \"This service is just an API to pass mejnik\",\n"}").build();
+                "    \"opis_projekta\": \"This service is just an API to pass mejnik\",\n}").build();
     }
 }
