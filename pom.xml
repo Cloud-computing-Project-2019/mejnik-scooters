@@ -16,7 +16,8 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <kumuluzee.version>3.7.0-SNAPSHOT</kumuluzee.version>
+        <kumuluzee.version>3.5.0</kumuluzee.version>
+        <kumuluzee-rest.version>1.2.3</kumuluzee-rest.version>
     </properties>
 
     <dependencyManagement>

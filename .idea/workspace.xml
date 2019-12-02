@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="596e40ba-04c6-476b-82bb-2f61d647089f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/si/fri/rso/mejnik/scooters/MejnikResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/si/fri/rso/mejnik/scooters/MejnikResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1575139724863</updated>
       <workItem from="1575286051025" duration="1173000" />
-      <workItem from="1575287445905" duration="5676000" />
+      <workItem from="1575287445905" duration="5885000" />
     </task>
     <servers />
   </component>
